@@ -36,10 +36,3 @@ I enjoy:
 
 ---
 
-## 📡 Connect with Me
-- 💼 LinkedIn: [Your Profile](https://linkedin.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com)  
-- 📧 Email: yourname@email.com  
-
----
-
